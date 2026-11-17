@@ -2,7 +2,7 @@
 
 <img src="img/perfectCookie.png" width="128">
 
-Download the `.zip` with [this link](https://github.com/R-stack-JS/cookieclicker/archive/refs/heads/main.zip). The original game can be found at http://orteil.dashnet.org/cookieclicker/. Please note that this is an unofficial file-only host of Cookie Clicker and is not endorsed by Orteil or Playsaurus. This repo contains a few improvements over the `ozh` repo (see Changes section below).
+Download the `.zip` with [this link](https://github.com/plasma4/cookieclicker/archive/refs/heads/main.zip). The original game can be found at http://orteil.dashnet.org/cookieclicker/. Please note that this is an unofficial file-only host of Cookie Clicker and is not endorsed by Orteil or Playsaurus. This repo contains a few improvements over the `ozh` repo (see Changes section below).
 
 - Normal link: [r-stack-js.github.io/R_stack-CookieClicker.github.io/](https://r-stack-js.github.io/R_stack-CookieClicker.github.io/)
 - Modded link: [r-stack-js.github.io/R_stack-CookieClicker.github.io/modded](https://r-stack-js.github.io/R_stack-CookieClicker.github.io/modded)
