@@ -15,7 +15,7 @@ When using `index.html`, **mods are disabled**. (In older versions, they would b
 
 Mod options will **only show up** if you are visiting `modded.html` and **mobile functionality and mods** (not part of the base game, see specific changes below) will only be available in `mobile.html`. Mobile functionality allows using touchscreen for moving around in the ascend menu and using temple swaps, for example.
 
-This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from http://plasma4.github.io/cookieclicker/ if you cannot "educate" yourself on the original URL. It should also fully work when opened as a `file://`.
+This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from http://r-stack-js.github.io/R_stack-CookieClicker.github.io/ if you cannot "educate" yourself on the original URL. It should also fully work when opened as a `file://`.
 
 This fork uses Cloudflare's API as a gateway to certain dynamic JSON files used in Cookie Clicker; see `getJson` in `main.js` for more details.
 
