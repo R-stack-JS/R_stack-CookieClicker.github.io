@@ -6,7 +6,7 @@ Download the `.zip` with [this link](https://github.com/R-stack-JS/cookieclicker
 
 - Normal link: [r-stack-js.github.io/R_stack-CookieClicker.github.io/](https://r-stack-js.github.io/R_stack-CookieClicker.github.io/)
 - Modded link: [r-stack-js.github.io/R_stack-CookieClicker.github.io/modded](https://r-stack-js.github.io/R_stack-CookieClicker.github.io/modded)
-- Mobile link: [plasma4.github.io/cookieclicker/mobile](https://plasma4.github.io/cookieclicker/mobile)
+- Mobile link: [r-stack-js.github.io/R_stack-CookieClicker.github.io/mobile](https://r-stack-js.github.io/R_stack-CookieClicker.github.io/mobile)
 - To play on a file, extract the files from the `.zip` first and then visit `index.html`/`modded.html`/`mobile.html` depending on what version you want.
 
 ## Information on mods
