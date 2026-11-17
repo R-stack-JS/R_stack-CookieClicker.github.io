@@ -4,8 +4,8 @@
 
 Download the `.zip` with [this link](https://github.com/R-stack-JS/cookieclicker/archive/refs/heads/main.zip). The original game can be found at http://orteil.dashnet.org/cookieclicker/. Please note that this is an unofficial file-only host of Cookie Clicker and is not endorsed by Orteil or Playsaurus. This repo contains a few improvements over the `ozh` repo (see Changes section below).
 
-- Normal link: [plasma4.github.io/cookieclicker/](https://plasma4.github.io/cookieclicker/)
-- Modded link: [plasma4.github.io/cookieclicker/modded](https://plasma4.github.io/cookieclicker/modded)
+- Normal link: [r-stack-js.github.io/R_stack-CookieClicker.github.io/](https://r-stack-js.github.io/R_stack-CookieClicker.github.io/)
+- Modded link: [r-stack-js.github.io/R_stack-CookieClicker.github.io/modded](https://r-stack-js.github.io/R_stack-CookieClicker.github.io/modded)
 - Mobile link: [plasma4.github.io/cookieclicker/mobile](https://plasma4.github.io/cookieclicker/mobile)
 - To play on a file, extract the files from the `.zip` first and then visit `index.html`/`modded.html`/`mobile.html` depending on what version you want.
 
